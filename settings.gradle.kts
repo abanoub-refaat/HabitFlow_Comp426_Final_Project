@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "HabitFlow"
+rootProject.name = "Habit Flow"
 include(":app")
  

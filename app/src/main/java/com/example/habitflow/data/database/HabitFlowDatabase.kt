@@ -8,7 +8,6 @@ import com.example.habitflow.data.dao.HabitDao
 import com.example.habitflow.data.dao.JournalDao
 import com.example.habitflow.data.model.Habit
 import com.example.habitflow.data.model.JournalEntry
-import kotlin.jvm.java
 
 @Database(
     entities = [Habit::class, JournalEntry::class],
